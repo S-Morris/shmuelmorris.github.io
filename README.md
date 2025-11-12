@@ -12,7 +12,7 @@ git clone https://github.com/yourusername/simplefolio.git
 cd simplefolio
 npm install
 npm start
-
+```
 📬 Contact
 
 📧 shmuelsmorris@gmail.com
